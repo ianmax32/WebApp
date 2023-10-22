@@ -1,0 +1,28 @@
+.navmain{
+    background-color: #292b2c;
+}
+
+#item{
+    border-radius: 35px;
+    justify-content: flex-end;
+}
+
+#maincontainer{
+    justify-content:space-between;
+}
+
+#brand:hover{
+    cursor:default;
+}
+
+#item:hover{
+    background-color: rgb(19, 7, 7);
+    border-radius: 35px;
+    -webkit-transform: translateY(-3px);
+	transform: translateY(-3px);
+}
+
+#nav-items{
+    justify-content: right;
+}
+
